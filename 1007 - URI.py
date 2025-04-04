@@ -1,5 +1,4 @@
 def calcDif(a, b, c, d):
-    
     x = print("DIFERENCA =", (a*b)-(c*d));
     return x;
 
